@@ -1,0 +1,10 @@
+Buoc 1: Import database vao Mysql
+Buoc 2: Mo file config lai thong tin ket noi csdl
+Cau hinh Email
+Mo file email trong thu muc inc.
+smtp_username
+smtp_password
+
+Cau hinh lai thong tin cho phu hop, dang ky tai khoan tai:
+mailgun
+
